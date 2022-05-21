@@ -1,0 +1,21 @@
+export default{
+baseurl:"./assets/images/",
+data:[
+    {
+        key:"cover",
+        img:"cardBack.png"
+    },
+    {
+        key:"cardfront",
+        img:"cardsSpriteSheet.png"
+    },
+    {
+        key:"opening",
+        img:"opening.jpg"
+    },
+    {
+        key:"ending",
+        img:"ending.jpg"
+    }
+]
+}
